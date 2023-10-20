@@ -1,12 +1,12 @@
 <!-- DOSMAX -->
 <p align='center'>
-  <img src="https://github.com/7AXEL/DOSMAX/blob/main/img/logo.png"></img>
+  <img src="https://github.com/7AXEL/KEYLOGGER/blob/main/logo.png"></img>
 </p>
 <p align='center'>
-    <img src="https://img.shields.io/badge/DOSMAX-bg?style=for-the-badge;"></img>
+    <img src="https://img.shields.io/badge/KEYLOGGER-bg?style=for-the-badge;"></img>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/DOS ATTACK TOOL V2.0-orange?style=for-the-badge;"></img>
+  <img src="https://img.shields.io/badge/VIRUS v1.0-orange?style=for-the-badge;"></img>
 </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Author-A.X.E.L-red?style=flat-square;"></img>
@@ -16,54 +16,45 @@
 <p align='center'>
     <img src="https://img.shields.io/badge/DISCLAIMER-purple?style=for-the-badge;"></img>
 
-#### DOSMAX
-- DOSMAX allow you to start a dos attack on servers using their IPs
-- you can simply type the ip adress of the server and then press enter
-- to exit the tool press enter without writing nothing or Ctrl+C in the IP input
-#### ADVENTAGES
-- **`high-level dos attack`**
-- > **`1`** high volume of trafique reqeusts
-- > **`2`** amplification
-- > **`3`** threading
+#### KEYLOGGER
+- if you want to create keylogger virus for windows you can use this tool
+- when you execute this tool in linux or windows OSs she will ask you for your email to create a keylogger virus (log.exe)
+- this tool need your email just to send you the log data (keyboard inputs)
 #### ARGS
-- > **`1`** to call dosmax from anywhere in your linux terminal you can use:
+- > **`1`** to call keylogger from anywhere in your linux terminal you can use:
 ```
-python3 dosmax.py --global
+python3 keylogger.py --global
 ```
 or
 ```
-python3 dosmax.py -G
+python3 keylogger.py -G
 ```
 - > **`2`** you can check the tool version using:
 ```
-python3 dosmax.py --version
+python3 keylogger.py --version
 ```
 or
 ```
-python3 dosmax.py -V
+python3 keylogger.py -V
 ```
 #### INSTALLATION
 - **`Windows`**
-- > **`1`** download and install git for windows from the original git website <a href='https://gitforwindows.org/'>download</a>
-- > **`2`** download and install npcap from the original npcap website <a href='https://npcap.com/#download'>download</a>
-- > **`3`** download and install python3 from the original python website <a href='https://python.org'>download</a>
-- > **`4`** start the git shell and run this commands:
-```
-git clone https://github.com/7AXEL/DOSMAX
-```
+- > just download the keylogger.exe
 - **`Linux`**
 - > open the terminal and write those commands:
 ```
 apt update & apt upgrade -y
 apt install git python
-git clone https://github.com/7AXEL/DOSMAX
+git clone https://github.com/7AXEL/KEYLOGGER
 ```
 #### RUN
-- **`Windows & Linux`**
+- **`Linux`**
 ```
-cd DOSMAX
-python dosmax.py
+cd KEYLOGGER
+python keylogger.py
 ```
+- **`Windows`**
+- execute the keylogger.exe
 #### PLATFORMS
 > Supported Platform : **`Windows`**, **`Ubuntu/Debian/Kali/Parrot/Arch Linux`**<br>
 <hr>
